@@ -1,5 +1,7 @@
 
-
+//UNIVERSIDAD DEL VALLE DE GUATEMALA
+//PABLO IGNACIO ARRIOLA DIAZ
+ //DIEGO ALEJANDRO DE LEON PUAC
 
 // Codigo obtenido del libro Java Structures
 
