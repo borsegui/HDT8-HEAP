@@ -2,13 +2,13 @@
 pública  clase  Paciente <E> implementa  Comparable <E> {
 	
 	privada  Cadena nombrePaciente;
-	privada  Cadena disease;
+	privada  Cadena dis;
 	privada  Cadena priority;
 
-	pública  Paciente (Cadena  nombrePaciente, Cadena  disease, Cadena  priority) {
+	pública  Paciente (Cadena  nombrePaciente, Cadena  dis, Cadena  priority) {
 		súper ();
 		este. nombrePaciente = nombrePaciente;
-		esta. disease = disease;
+		esta. dis = dis;
 		esta. priority = Prioridad;
 	}
 
@@ -26,7 +26,7 @@ pública  clase  Paciente <E> implementa  Comparable <E> {
 	}
 
 	público  Cadena  getEnfermedad () {
-		volver disease;
+		volver dis;
 	}
 
 	pública  vacío  setEnfermedad (Cadena  disease) {
