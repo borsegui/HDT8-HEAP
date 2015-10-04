@@ -1,4 +1,6 @@
-
+//UNIVERSIDAD DEL VALLE DE GUATEMALA
+//PABLO IGNACIO ARRIOLA DIAZ
+ //DIEGO ALEJANDRO DE LEON PUAC
 public class Paciente implements Comparable<Paciente> {
 
 	//Atributos
