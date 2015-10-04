@@ -24,6 +24,7 @@ public class Emergencia{
 			e.printStackTrace();
 		}
 	} 
+	//ordena la lista del txt proporcionado
 	
 	public String devolverPacientesEnOrden(){
 		String pacientesEnOrden="";
