@@ -1,3 +1,6 @@
+//UNIVERSIDAD DEL VALLE DE GUATEMALA
+//PABLO IGNACIO ARRIOLA DIAZ
+ //DIEGO ALEJANDRO DE LEON PUAC
 import java.util.PriorityQueue;
 
 public class Clinica {
