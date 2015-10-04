@@ -1,3 +1,7 @@
+//UNIVERSIDAD DEL VALLE DE GUATEMALA
+//PABLO IGNACIO ARRIOLA DIAZ
+ //DIEGO ALEJANDRO DE LEON PUAC
+ 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
